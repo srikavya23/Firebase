@@ -1,5 +1,7 @@
 # React-CRUD-with-Firebase
 React project demonstrating CRUD Operations with Firebase.
+1.Webhosting
+2.Real time data syncing
 
 To install firebase ->  1. npm install -g firebase-tools
 			            2. firebase login
