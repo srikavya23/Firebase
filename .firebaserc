@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "react-app-cd1c3",
+    "staging": "react-app-cd1c3"
+  },
+  "targets": {}
+}
