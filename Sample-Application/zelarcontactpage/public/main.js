@@ -1,12 +1,12 @@
 // Initialize Firebase (ADD YOUR OWN DATA)
 var config = {
-  apiKey: "AIzaSyCvZ8tp25r2TsaXlxO1niAOk_Sl_u0hGs8",
-  authDomain: "contact-d7263.firebaseapp.com",
-  databaseURL: "https://contact-d7263-default-rtdb.firebaseio.com",
-  projectId: "contact-d7263",
-  storageBucket: "contact-d7263.appspot.com",
-  messagingSenderId: "749163864112",
-  appId: "1:749163864112:web:7b7f43c1b755656c93cdf5"
+  apiKey: "AIzaSyChfPwfMXfGWlYm5nLY9CkJwlQ1aD8GIK4",
+  authDomain: "sample-617b8.firebaseapp.com",
+  projectId: "sample-617b8",
+  storageBucket: "sample-617b8.appspot.com",
+  messagingSenderId: "583051326524",
+  appId: "1:583051326524:web:be46bde162d6d88516ff39",
+  measurementId: "G-85F51SFXE6"
 };
 firebase.initializeApp(config);
 
