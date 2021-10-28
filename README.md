@@ -10,6 +10,8 @@ To install firebase ->
 4. firebase use <projectid>(Existing project id)
 5. firebase deploy
 
- 
+Official Doc: https://firebase.google.com/docs/build
+Firebase Console: https://console.firebase.google.com/
+
 
 
